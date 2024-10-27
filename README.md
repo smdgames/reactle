@@ -198,6 +198,9 @@ For mobile and wearable devices and smart TVs, sharing of results is initially a
 ### Fun themes in other languages
 - [German Harry Potter Wordle](https://hpwordle.de)
 
+### Other variants
+- [Confusle](https://confusle.positronicarts.com/): Every answer contains precisely one lie
+
 ### Math, Acronyms, Science, Tech, and more
 
 - [AI-powered](https://github.com/asirota/wordle-ai): Includes an AI component
